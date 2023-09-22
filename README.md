@@ -23,7 +23,7 @@ special sounds will play on dice rolls of one and 20
 ## Screenshots
 
 ![Dice Roller UI](https://i.gyazo.com/a88b257e6271da8adcf11dbc7e1f84f2.png)
-![Dice Roller UI]([https://i.gyazo.com/a88b257e6271da8adcf11dbc7e1f84f2.png](https://i.gyazo.com/340d7be2ec66b01875292213d49e9c15.png))
+![Dice Roller UI](https://i.gyazo.com/340d7be2ec66b01875292213d49e9c15.png)
 
 ## Demo
 
