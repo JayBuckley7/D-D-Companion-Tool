@@ -1,6 +1,6 @@
 This was a project my friends and I made in c$ to track dnd muliple dnd characters and dice rolls
 
-it had a couple different UIs so it could stand wide or tall depending on idk what you wanted I guess, it never quite made it out of beta but it was a lot of fun to develop
+it had a couple of different UIs so it could stand wide or tall depending on idk what you wanted I guess, it never quite made it out of beta but it was a lot of fun to develop
 
 # GhDiceRoller
 
@@ -16,9 +16,9 @@ it had a couple different UIs so it could stand wide or tall depending on idk wh
 
 ## Usage
 
-1. Visit the GhDiceRoller website [here](https://example.com).
-2. Click on the dice you want to roll, specify any modifiers, and hit the roll button.
-3. Enjoy your dice roll results and use them in your D&D adventures!
+2. Click on the dice you want to roll, specify any a hero to pull stats from or don't, and hit the roll button.
+3. mute the dice sounds or use our dynamic roller, the sounds it plays depends on the dice material you chose
+special sounds will play on dice rolls of one and 20
 
 ## Screenshots
 
