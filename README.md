@@ -4,8 +4,6 @@ it had a couple different UIs so it could stand wide or tall depending on idk wh
 
 # GhDiceRoller
 
-![Dice Roller UI](https://i.gyazo.com/a88b257e6271da8adcf11dbc7e1f84f2.png)
-
 **GhDiceRoller** is a Dungeons and Dragons (D&D) application that simplifies dice rolling and enhances your gaming experience. With a recent UI update, it's now even more user-friendly and visually appealing?
 
 ## Features
@@ -25,6 +23,7 @@ it had a couple different UIs so it could stand wide or tall depending on idk wh
 ## Screenshots
 
 ![Dice Roller UI](https://i.gyazo.com/a88b257e6271da8adcf11dbc7e1f84f2.png)
+![Dice Roller UI]([https://i.gyazo.com/a88b257e6271da8adcf11dbc7e1f84f2.png](https://i.gyazo.com/340d7be2ec66b01875292213d49e9c15.png))
 
 ## Demo
 
